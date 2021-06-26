@@ -103,3 +103,4 @@ Este es un repositorio creado para el curso de Introducción a Python - HC02 del
 - [Programa NINE de NRAO](https://info.nrao.edu/do/odi/broader-impact-programs/Nine)
 - [Alpha-Cen, Astrofísica Centroamericana y del Caribe](https://ecfm.usac.edu.gt/jrsacahui/AstroCentro/Astro.html)
 - [Programa Costa Rica - US Bridge](https://costarica-us-bridge.weebly.com/)
+- [QQSM](https://replit.com/talk/share/Game-Who-Wants-To-Be-A-Millionaire/6162)
